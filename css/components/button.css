@@ -1,0 +1,13 @@
+.btn-blue {
+	background-color: #A575B9 /*#AC6673  #EBB3B0*/;
+	color: #fefcf5;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	font-family: 'Maitree';
+}
+
+.btn-blue:hover{
+	background-color: black;
+	color: #fefcf5;
+}

@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Martel");
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Maitree");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+  font-family: 'Maitree';
+  font-size: 18px;
+  margin: 0px;
+}
+
+
+h1 {
+	font-family: 'Martel';
+}
+
+h2 {
+	font-family: 'Quicksand';
+}
+
+a {
+  text-decoration: none;
+}
+
